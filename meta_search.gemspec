@@ -68,10 +68,10 @@ Gem::Specification.new do |s|
     s.specification_version = 4
     s.add_dependency(%q<activerecord>, [">= 4.0.1"])
     s.add_dependency(%q<activesupport>, [">= 4.0.1"])
-    s.add_dependency(%q<polyamorous>, [">= 0.6.4"])
+#    s.add_dependency(%q<polyamorous>, [">= 0.6.4"])
     s.add_dependency(%q<actionpack>, [">= 4.0.1"])
     s.add_dependency(%q<rake>, [">= 0"])
-    s.add_dependency(%q<sqlite3>, [">= 0"])
+#    s.add_dependency(%q<sqlite3>, [">= 0"])
     s.add_dependency(%q<shoulda>, ["~> 2.11"])
     s.add_dependency(%q<jeweler>, [">= 0"])
   end
